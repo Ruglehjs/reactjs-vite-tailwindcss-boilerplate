@@ -1,0 +1,65 @@
+{
+  "sectionTitle": "Conoce a Nuestra Líder",
+  "sectionDescription": "La visión y pasión detrás de cada proyecto exitoso",
+  "leader": {
+    "name": "Valentina López",
+    "title": "Fundadora & Community Manager",
+    "description": "Titulada en Administración de empresa, Community Manager y Creadora de Contenido digital. 🙋🏼‍♀️📲 Ayudo a marcas, emprendedores y empresas a construir comunidades sólidas, generar contenido estratégico y creativo y potenciar su presencia digital a través de una comunicación auténtica, cercana y efectiva.",
+    "image": "/woman.png",
+    "achievements": [
+      "Especialista en Community Management",
+      "Experta en Creación de Contenido Digital",
+      "Construcción de comunidades sólidas",
+      "Comunicación auténtica y efectiva"
+    ],
+    "experience": [
+      {
+        "company": "Viraleate",
+        "role": "Fundadora & CEO",
+        "period": "2020 - Presente",
+        "description": "Ayudando a marcas y emprendedores a potenciar su presencia digital"
+      },
+      {
+        "company": "Freelance",
+        "role": "Community Manager",
+        "period": "2018 - 2020",
+        "description": "Creación de contenido estratégico y gestión de comunidades digitales"
+      }
+    ],
+    "quote": "Ayudo a marcas, emprendedores y empresas a construir comunidades sólidas y potenciar su presencia digital a través de una comunicación auténtica, cercana y efectiva.",
+    "socialMedia": {
+      "linkedin": "https://linkedin.com/in/valentina-lopez-viraleate",
+      "instagram": "https://instagram.com/valentinaviraleate",
+      "twitter": "https://twitter.com/valviraleate"
+    },
+    "education": {
+      "degree": "Administración de Empresa",
+      "specializations": ["Community Management", "Creación de Contenido Digital"]
+    }
+  },
+  "values": {
+    "title": "Nuestros Valores",
+    "items": [
+      {
+        "name": "Creatividad Sin Límites",
+        "description": "Pensamos fuera de la caja para crear campañas que realmente impacten",
+        "icon": "✨"
+      },
+      {
+        "name": "Resultados Medibles",
+        "description": "Cada estrategia está respaldada por métricas claras y objetivos alcanzables",
+        "icon": "📊"
+      },
+      {
+        "name": "Compromiso Total",
+        "description": "Tu éxito es nuestro éxito. Trabajamos como parte de tu equipo",
+        "icon": "🤝"
+      },
+      {
+        "name": "Innovación Constante",
+        "description": "Siempre a la vanguardia de las últimas tendencias y tecnologías",
+        "icon": "🚀"
+      }
+    ]
+  }
+} 

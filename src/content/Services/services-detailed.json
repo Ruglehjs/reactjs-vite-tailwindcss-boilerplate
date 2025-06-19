@@ -1,0 +1,478 @@
+{
+  "title": "Nuestros Servicios Especializados",
+  "subtitle": "Soluciones Integrales de Marketing Digital",
+  "description": "Descubre nuestros servicios completos diseñados para transformar tu presencia digital y acelerar el crecimiento de tu negocio en el mercado chileno.",
+  "services": [
+    {
+      "id": "content-creation",
+      "name": "Creación de Contenido",
+      "tagline": "Contenido que Conecta, Convierte y Cautiva",
+      "description": "Desarrollamos contenido visual y audiovisual estratégico que no solo llama la atención, sino que genera engagement real y conversiones medibles para tu marca.",
+      "icon": "content",
+      "color": "pink",
+      "hero": {
+        "title": "Creación de Contenido Profesional",
+        "subtitle": "Transforma tu mensaje en contenido que vende",
+        "description": "Desde conceptualización hasta producción final, creamos contenido que refleja la esencia de tu marca y conecta emocionalmente con tu audiencia objetivo.",
+        "backgroundImage": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=1200&h=800&fit=crop&crop=entropy&auto=format&q=80",
+        "backgroundImageAlt": "Equipo creativo trabajando en contenido digital"
+      },
+      "detailedFeatures": [
+        {
+          "category": "Diseño Gráfico",
+          "title": "Diseño Visual Impactante",
+          "description": "Creamos piezas gráficas que destacan en el feed y generan recordación de marca.",
+          "items": [
+            "Posts para Instagram, Facebook y LinkedIn",
+            "Stories animados e interactivos",
+            "Banners publicitarios optimizados",
+            "Infografías educativas y promocionales",
+            "Diseño de flyers y material impreso",
+            "Mockups y presentaciones profesionales"
+          ],
+          "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Diseñador trabajando en contenido visual"
+        },
+        {
+          "category": "Fotografía y Video",
+          "title": "Producción Audiovisual",
+          "description": "Capturamos la esencia de tu marca con fotografía y video de alta calidad.",
+          "items": [
+            "Sesiones fotográficas de productos",
+            "Videos promocionales y corporativos",
+            "Reels y TikToks virales",
+            "Fotografía lifestyle y behind the scenes",
+            "Time-lapse y stop motion",
+            "Edición profesional y post-producción"
+          ],
+          "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Sesión de fotografía profesional"
+        },
+        {
+          "category": "Copywriting",
+          "title": "Contenido que Convierte",
+          "description": "Textos persuasivos que comunican tu valor y generan acción en tu audiencia.",
+          "items": [
+            "Copy para redes sociales optimizado",
+            "Emails de marketing automatizados",
+            "Descripciones de productos que venden",
+            "Blogs SEO-optimizados",
+            "Scripts para videos y podcasts",
+            "Mensajes publicitarios efectivos"
+          ],
+          "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Copywriter creando contenido persuasivo"
+        }
+      ],
+      "process": {
+        "title": "Nuestro Proceso Creativo",
+        "description": "Un enfoque sistemático que garantiza contenido de alta calidad y resultados medibles.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Estrategia & Briefing",
+            "description": "Definimos objetivos, audiencia y tono de comunicación",
+            "duration": "1-2 días"
+          },
+          {
+            "number": "02",
+            "title": "Conceptualización",
+            "description": "Desarrollamos ideas creativas alineadas con tu marca",
+            "duration": "2-3 días"
+          },
+          {
+            "number": "03",
+            "title": "Producción",
+            "description": "Creamos el contenido con estándares profesionales",
+            "duration": "3-5 días"
+          },
+          {
+            "number": "04",
+            "title": "Revisión & Optimización",
+            "description": "Refinamos el contenido basado en tu feedback",
+            "duration": "1-2 días"
+          },
+          {
+            "number": "05",
+            "title": "Entrega & Publicación",
+            "description": "Entregamos el contenido listo para usar",
+            "duration": "1 día"
+          }
+        ]
+      },
+      "results": {
+        "title": "Resultados Comprobados",
+        "description": "Nuestro contenido genera resultados reales para nuestros clientes",
+        "metrics": [
+          {
+            "number": "150%",
+            "label": "Aumento promedio en engagement",
+            "description": "Más likes, comentarios y shares"
+          },
+          {
+            "number": "80%",
+            "label": "Mejora en reconocimiento de marca",
+            "description": "Mayor recordación y awareness"
+          },
+          {
+            "number": "200%",
+            "label": "Incremento en leads calificados",
+            "description": "Más prospectos de calidad"
+          }
+        ]
+      },
+      "portfolio": {
+        "title": "Casos de Éxito",
+        "items": [
+          {
+            "client": "Restaurante Local",
+            "result": "300% más seguidores en 6 meses",
+            "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "E-commerce Moda",
+            "result": "50% aumento en ventas online",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "Startup Tech",
+            "result": "1M+ views en contenido viral",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          }
+        ]
+      }
+    },
+    {
+      "id": "strategic-marketing",
+      "name": "Marketing Estratégico",
+      "tagline": "Estrategias que Impulsan el Crecimiento",
+      "description": "Consultoría especializada que transforma tu visión de negocio en estrategias de marketing rentables y sostenibles en el tiempo.",
+      "icon": "strategy",
+      "color": "blue",
+      "hero": {
+        "title": "Consultoría en Marketing Estratégico",
+        "subtitle": "De la idea a la ejecución exitosa",
+        "description": "Desarrollamos estrategias de marketing integral basadas en datos, que maximizan tu ROI y aceleran el crecimiento de tu negocio.",
+        "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&h=800&fit=crop&crop=entropy&auto=format&q=80",
+        "backgroundImageAlt": "Equipo estratégico planificando marketing"
+      },
+      "detailedFeatures": [
+        {
+          "category": "Análisis de Mercado",
+          "title": "Investigación Profunda",
+          "description": "Entendemos tu mercado, competencia y oportunidades para crear ventajas competitivas.",
+          "items": [
+            "Análisis de competencia directa e indirecta",
+            "Investigación de tendencias del mercado",
+            "Identificación de oportunidades de nicho",
+            "Análisis FODA completo",
+            "Benchmarking de mejores prácticas",
+            "Estudios de comportamiento del consumidor"
+          ],
+          "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Análisis de datos de mercado"
+        },
+        {
+          "category": "Estrategia de Posicionamiento",
+          "title": "Diferenciación Efectiva",
+          "description": "Definimos tu propuesta de valor única y cómo comunicarla al mercado.",
+          "items": [
+            "Definición de buyer personas detalladas",
+            "Mapa de posicionamiento competitivo",
+            "Propuesta de valor diferenciada",
+            "Arquitectura de marca estratégica",
+            "Estrategia de precios competitiva",
+            "Plan de comunicación integral"
+          ],
+          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Estratega desarrollando posicionamiento"
+        },
+        {
+          "category": "Optimización de Conversiones",
+          "title": "Resultados Medibles",
+          "description": "Implementamos sistemas de medición y optimización continua para maximizar resultados.",
+          "items": [
+            "Configuración de analytics avanzados",
+            "Embudo de conversión optimizado",
+            "A/B testing de campañas",
+            "Automatización de marketing",
+            "KPIs y dashboards personalizados",
+            "Reportes de ROI detallados"
+          ],
+          "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Dashboard de métricas de marketing"
+        }
+      ],
+      "process": {
+        "title": "Metodología Estratégica",
+        "description": "Un proceso probado que transforma insights en estrategias ganadoras.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Diagnóstico Integral",
+            "description": "Evaluamos tu situación actual y oportunidades",
+            "duration": "1 semana"
+          },
+          {
+            "number": "02",
+            "title": "Investigación de Mercado",
+            "description": "Analizamos competencia, audiencia y tendencias",
+            "duration": "1-2 semanas"
+          },
+          {
+            "number": "03",
+            "title": "Desarrollo Estratégico",
+            "description": "Creamos tu estrategia personalizada",
+            "duration": "1 semana"
+          },
+          {
+            "number": "04",
+            "title": "Plan de Implementación",
+            "description": "Definimos roadmap y cronograma detallado",
+            "duration": "3-5 días"
+          },
+          {
+            "number": "05",
+            "title": "Seguimiento y Optimización",
+            "description": "Monitoreamos resultados y optimizamos",
+            "duration": "Continuo"
+          }
+        ]
+      },
+      "results": {
+        "title": "Impacto Estratégico",
+        "description": "Estrategias que generan crecimiento sostenible y rentable",
+        "metrics": [
+          {
+            "number": "250%",
+            "label": "Mejora promedio en ROI",
+            "description": "Mayor retorno de inversión"
+          },
+          {
+            "number": "180%",
+            "label": "Aumento en leads calificados",
+            "description": "Más oportunidades de venta"
+          },
+          {
+            "number": "90%",
+            "label": "Reducción en costo de adquisición",
+            "description": "Eficiencia en inversión publicitaria"
+          }
+        ]
+      },
+      "portfolio": {
+        "title": "Transformaciones Exitosas",
+        "items": [
+          {
+            "client": "SaaS B2B",
+            "result": "400% crecimiento en ARR",
+            "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "Retail Fashion",
+            "result": "300% mejora en conversión",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "Servicios Profesionales",
+            "result": "500% aumento en leads",
+            "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          }
+        ]
+      }
+    },
+    {
+      "id": "btl-marketing",
+      "name": "Marketing BTL",
+      "tagline": "Experiencias que Marcan la Diferencia",
+      "description": "Creamos activaciones experienciales y eventos memorables que conectan emocionalmente con tu audiencia y generan buzz auténtico para tu marca.",
+      "icon": "event",
+      "color": "pink",
+      "hero": {
+        "title": "Marketing BTL y Activaciones",
+        "subtitle": "Conecta con tu audiencia de forma memorable",
+        "description": "Diseñamos y ejecutamos experiencias de marca únicas que crean conexiones emocionales duraderas y generan conversaciones auténticas sobre tu marca.",
+        "backgroundImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=1200&h=800&fit=crop&crop=entropy&auto=format&q=80",
+        "backgroundImageAlt": "Evento de activación de marca"
+      },
+      "detailedFeatures": [
+        {
+          "category": "Activaciones de Marca",
+          "title": "Experiencias Inmersivas",
+          "description": "Creamos activaciones que sumergen a tu audiencia en el mundo de tu marca.",
+          "items": [
+            "Pop-up stores y espacios experienciales",
+            "Activaciones en centros comerciales",
+            "Eventos de lanzamiento de productos",
+            "Experiencias de realidad virtual/aumentada",
+            "Instalaciones interactivas",
+            "Activaciones en festivales y ferias"
+          ],
+          "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Activación de marca en evento"
+        },
+        {
+          "category": "Eventos Corporativos",
+          "title": "Eventos Profesionales",
+          "description": "Organizamos eventos corporativos que fortalecen relaciones y generan oportunidades.",
+          "items": [
+            "Conferencias y seminarios",
+            "Lanzamientos de productos B2B",
+            "Eventos de networking",
+            "Celebraciones corporativas",
+            "Roadshows empresariales",
+            "Convenciones y congresos"
+          ],
+          "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Evento corporativo profesional"
+        },
+        {
+          "category": "Sampling y Degustaciones",
+          "title": "Experiencias Sensoriales",
+          "description": "Permitimos que tu audiencia experimente directamente tu producto o servicio.",
+          "items": [
+            "Degustaciones en puntos de venta",
+            "Sampling en eventos masivos",
+            "Demostraciones de productos",
+            "Pruebas de servicios gratuitas",
+            "Activaciones gastronómicas",
+            "Experiencias multisensoriales"
+          ],
+          "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&h=400&fit=crop&crop=entropy&auto=format&q=75",
+          "imageAlt": "Degustación de productos"
+        }
+      ],
+      "process": {
+        "title": "Proceso de Activación",
+        "description": "Desde la conceptualización hasta la ejecución perfecta de tu evento.",
+        "steps": [
+          {
+            "number": "01",
+            "title": "Briefing y Objetivos",
+            "description": "Definimos metas, audiencia y mensaje clave",
+            "duration": "2-3 días"
+          },
+          {
+            "number": "02",
+            "title": "Concepto Creativo",
+            "description": "Desarrollamos la idea central de la activación",
+            "duration": "1 semana"
+          },
+          {
+            "number": "03",
+            "title": "Planificación Logística",
+            "description": "Coordinamos todos los aspectos operativos",
+            "duration": "1-2 semanas"
+          },
+          {
+            "number": "04",
+            "title": "Producción y Montaje",
+            "description": "Ejecutamos el setup del evento",
+            "duration": "1-3 días"
+          },
+          {
+            "number": "05",
+            "title": "Ejecución y Seguimiento",
+            "description": "Realizamos el evento y medimos resultados",
+            "duration": "1 día + seguimiento"
+          }
+        ]
+      },
+      "results": {
+        "title": "Impacto Experiencial",
+        "description": "Eventos que generan conexiones reales y resultados medibles",
+        "metrics": [
+          {
+            "number": "85%",
+            "label": "Recordación de marca post-evento",
+            "description": "Alta memorabilidad de la experiencia"
+          },
+          {
+            "number": "300%",
+            "label": "Aumento en menciones sociales",
+            "description": "Mayor buzz y conversación"
+          },
+          {
+            "number": "60%",
+            "label": "Conversión a clientes",
+            "description": "De participantes a compradores"
+          }
+        ]
+      },
+      "portfolio": {
+        "title": "Eventos Memorables",
+        "items": [
+          {
+            "client": "Marca de Bebidas",
+            "result": "50K participantes en roadshow",
+            "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "Tech Startup",
+            "result": "200% aumento en leads B2B",
+            "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          },
+          {
+            "client": "Fashion Brand",
+            "result": "1M+ impresiones en redes",
+            "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75"
+          }
+        ]
+      }
+    }
+  ],
+  "additionalServices": {
+    "title": "Servicios Complementarios",
+    "description": "Servicios adicionales que potencian tu estrategia de marketing integral",
+    "items": [
+      {
+        "name": "Community Management",
+        "description": "Gestión profesional de tus redes sociales con estrategia y contenido diario",
+        "icon": "👥",
+        "features": ["Gestión diaria", "Contenido estratégico", "Respuesta a comentarios", "Reportes mensuales"]
+      },
+      {
+        "name": "Influencer Marketing",
+        "description": "Colaboraciones estratégicas con influencers relevantes para tu nicho",
+        "icon": "🌟",
+        "features": ["Selección de influencers", "Negociación de términos", "Supervisión de campañas", "Medición de resultados"]
+      },
+      {
+        "name": "Email Marketing",
+        "description": "Campañas de email personalizadas que nutren y convierten prospectos",
+        "icon": "📧",
+        "features": ["Automatización", "Segmentación avanzada", "Diseño responsive", "A/B testing"]
+      },
+      {
+        "name": "SEO & SEM",
+        "description": "Posicionamiento web orgánico y publicidad digital para máxima visibilidad",
+        "icon": "🔍",
+        "features": ["Optimización SEO", "Google Ads", "Keyword research", "Reportes de posicionamiento"]
+      },
+      {
+        "name": "Marketing Automation",
+        "description": "Automatización de procesos de marketing para mayor eficiencia",
+        "icon": "🤖",
+        "features": ["Workflows automatizados", "Lead scoring", "CRM integration", "Nurturing campaigns"]
+      },
+      {
+        "name": "Consultoría Digital",
+        "description": "Asesoría especializada para transformación digital de tu negocio",
+        "icon": "💡",
+        "features": ["Auditoría digital", "Roadmap tecnológico", "Capacitación", "Implementación"]
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Transformar tu Marketing?",
+    "description": "Descubre cómo nuestros servicios especializados pueden acelerar el crecimiento de tu negocio",
+    "primaryButton": {
+      "text": "Consulta Gratuita",
+      "link": "/contact"
+    },
+    "secondaryButton": {
+      "text": "Ver Planes y Precios",
+      "link": "/plans"
+    }
+  }
+} 

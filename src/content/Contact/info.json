@@ -1,0 +1,75 @@
+{
+  "officeInfo": {
+    "title": "Nuestra Oficina",
+    "description": "Ubicados en el corazón de Santiago, trabajamos tanto presencial como remotamente para atender clientes en todo Chile y Latinoamérica.",
+    "address": {
+      "street": "Las Condes",
+      "city": "Santiago",
+      "country": "Chile",
+      "zipCode": "7550000"
+    },
+    "workingHours": {
+      "weekdays": "Lunes a Viernes: 9:00 - 18:00",
+      "weekends": "Disponible por WhatsApp"
+    },
+    "map": {
+      "embedUrl": "https://www.google.com/maps/embed?pb=...",
+      "linkUrl": "https://maps.google.com"
+    }
+  },
+  "socialMedia": {
+    "title": "Síguenos en Redes",
+    "description": "Mantente al día con las últimas tendencias, tips y casos de éxito.",
+    "platforms": [
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/viraleate.cl",
+        "followers": "15K+",
+        "description": "Tips diarios y casos de éxito"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://linkedin.com/company/viraleate",
+        "followers": "8K+",
+        "description": "Contenido profesional y networking"
+      },
+      {
+        "name": "TikTok",
+        "url": "https://tiktok.com/@viraleate.cl",
+        "followers": "25K+",
+        "description": "Tendencias y contenido viral"
+      },
+      {
+        "name": "YouTube",
+        "url": "https://youtube.com/@viraleate",
+        "followers": "5K+",
+        "description": "Tutoriales y webinars"
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Cuánto tiempo toma ver resultados?",
+        "answer": "Generalmente nuestros clientes comienzan a ver resultados medibles en las primeras 2-4 semanas, con resultados significativos en 2-3 meses."
+      },
+      {
+        "question": "¿Trabajan con empresas de todos los tamaños?",
+        "answer": "Sí, desde startups hasta grandes corporaciones. Adaptamos nuestras estrategias al tamaño y necesidades específicas de cada cliente."
+      },
+      {
+        "question": "¿Ofrecen servicios de marketing offline?",
+        "answer": "Absolutamente. Somos especialistas en planes BTL que combinan estrategias online y offline para máximo impacto."
+      },
+      {
+        "question": "¿Cuál es su modelo de trabajo?",
+        "answer": "Trabajamos con contratos mensuales flexibles, con posibilidad de proyectos puntuales. Siempre con total transparencia en reportes y métricas."
+      },
+      {
+        "question": "¿Atienden clientes fuera de Chile?",
+        "answer": "Sí, trabajamos con clientes en toda Latinoamérica de forma remota, adaptando las estrategias a cada mercado local."
+      }
+    ]
+  }
+} 

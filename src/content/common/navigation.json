@@ -1,0 +1,42 @@
+{
+  "logo": {
+    "text": "viraleate.cl",
+    "alt": "Viraleate Marketing Agency Logo"
+  },
+  "navigation": [
+    {
+      "name": "Inicio",
+      "href": "/",
+      "current": false
+    },
+    {
+      "name": "Servicios",
+      "href": "/services",
+      "current": false
+    },
+    {
+      "name": "Planes",
+      "href": "/plans",
+      "current": false
+    },
+    {
+      "name": "Acerca",
+      "href": "/about",
+      "current": false
+    },
+    {
+      "name": "Portafolio",
+      "href": "/portfolio",
+      "current": false
+    },
+    {
+      "name": "Contacto",
+      "href": "/contact",
+      "current": false
+    }
+  ],
+  "cta": {
+    "text": "Cotizar Ahora",
+    "href": "/contact"
+  }
+} 

@@ -1,0 +1,106 @@
+{
+  "title": "Cuéntanos Tu Proyecto",
+  "description": "Completa este formulario y recibe una propuesta personalizada en menos de 24 horas. Todos los campos son importantes para crear la mejor estrategia para ti.",
+  "form": {
+    "fields": [
+      {
+        "name": "fullName",
+        "label": "Nombre Completo",
+        "type": "text",
+        "placeholder": "Ej: María González",
+        "required": true
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "type": "email", 
+        "placeholder": "maria@empresa.com",
+        "required": true
+      },
+      {
+        "name": "phone",
+        "label": "Teléfono",
+        "type": "tel",
+        "placeholder": "+56 9 1234 5678",
+        "required": true
+      },
+      {
+        "name": "company",
+        "label": "Empresa",
+        "type": "text",
+        "placeholder": "Nombre de tu empresa (opcional)",
+        "required": false
+      },
+      {
+        "name": "projectType",
+        "label": "Tipo de Proyecto",
+        "type": "select",
+        "options": [
+          "Creación de Contenido",
+          "Estrategia de Marketing",
+          "Plan BTL Completo",
+          "Consultoría Digital",
+          "Otro"
+        ],
+        "required": true
+      },
+      {
+        "name": "budget",
+        "label": "Presupuesto Aproximado",
+        "type": "select",
+        "options": [
+          "Menos de $500.000 CLP",
+          "$500.000 - $1.000.000 CLP",
+          "$1.000.000 - $2.500.000 CLP",
+          "$2.500.000 - $5.000.000 CLP",
+          "Más de $5.000.000 CLP"
+        ],
+        "required": true
+      },
+      {
+        "name": "timeline",
+        "label": "¿Cuándo quieres empezar?",
+        "type": "select",
+        "options": [
+          "Inmediatamente",
+          "En las próximas 2 semanas",
+          "En el próximo mes",
+          "En los próximos 3 meses",
+          "Más adelante"
+        ],
+        "required": true
+      },
+      {
+        "name": "message",
+        "label": "Cuéntanos sobre tu proyecto",
+        "type": "textarea",
+        "placeholder": "Describe tu proyecto, objetivos, desafíos actuales, o cualquier información relevante que nos ayude a entender mejor tus necesidades...",
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "Enviar Propuesta",
+      "loadingText": "Enviando..."
+    },
+    "privacy": "Al enviar este formulario, aceptas nuestros términos de privacidad y el procesamiento de tus datos para fines comerciales.",
+    "successMessage": "¡Mensaje enviado! Te contactaremos en menos de 2 horas.",
+    "errorMessage": "Hubo un error al enviar el mensaje. Por favor intenta nuevamente."
+  },
+  "benefits": [
+    {
+      "title": "Respuesta Rápida",
+      "description": "Te contactamos en menos de 2 horas",
+      "icon": "⚡"
+    },
+    {
+      "title": "Propuesta Personalizada",
+      "description": "Estrategia diseñada específicamente para ti",
+      "icon": "🎯"
+    },
+    {
+      "title": "Sin Compromiso",
+      "description": "Consulta inicial completamente gratuita",
+      "icon": "💎"
+    }
+  ]
+} 

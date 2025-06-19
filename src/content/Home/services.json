@@ -1,0 +1,112 @@
+{
+  "title": "Nuestros Servicios",
+  "subtitle": "Soluciones Integrales de Marketing Digital",
+  "description": "Potencia tu marca con nuestros servicios especializados.",
+  "categories": [
+    {
+      "id": "content-creation",
+      "name": "Creación de Contenido",
+      "description": "Contenido visual y audiovisual que conecta con tu audiencia.",
+      "icon": "content",
+      "color": "pink",
+      "image": "/images/content-creation.jpg",
+      "imageAlt": "Creación de contenido digital profesional",
+      "features": [
+        "Diseño gráfico profesional",
+        "Fotografía y video marketing",
+        "Contenido para redes sociales"
+      ],
+      "cta": {
+        "text": "Saber Más",
+        "link": "/servicios"
+      }
+    },
+    {
+      "id": "strategic-marketing",
+      "name": "Marketing Estratégico",
+      "description": "Estrategias de marketing que impulsan el crecimiento de tu negocio.",
+      "icon": "strategy",
+      "color": "green",
+      "image": "/images/strategic-marketing.jpg",
+      "imageAlt": "Estrategia de marketing profesional",
+      "features": [
+        "Análisis de mercado y competencia",
+        "Estrategia de posicionamiento",
+        "Plan de comunicación integral"
+      ],
+      "cta": {
+        "text": "Saber Más",
+        "link": "/servicios"
+      }
+    },
+    {
+      "id": "btl-marketing",
+      "name": "Marketing BTL",
+      "description": "Activaciones y eventos que crean conexiones reales con tus clientes.",
+      "icon": "event",
+      "color": "blue",
+      "image": "/images/btl-marketing.jpg",
+      "imageAlt": "Eventos y activaciones BTL",
+      "features": [
+        "Activaciones de marca",
+        "Eventos corporativos",
+        "Lanzamientos de productos"
+      ],
+      "cta": {
+        "text": "Saber Más",
+        "link": "/servicios"
+      }
+    }
+  ],
+  "additionalServices": {
+    "title": "Servicios Complementarios",
+    "description": "Servicios adicionales que potencian tu estrategia de marketing integral",
+    "items": [
+      {
+        "name": "Community Management",
+        "description": "Gestión profesional de tus redes sociales",
+        "icon": "👥"
+      },
+      {
+        "name": "Influencer Marketing",
+        "description": "Colaboraciones estratégicas con influencers",
+        "icon": "🌟"
+      },
+      {
+        "name": "Email Marketing",
+        "description": "Campañas de email personalizadas",
+        "icon": "📧"
+      },
+      {
+        "name": "SEO & SEM",
+        "description": "Posicionamiento web y publicidad digital",
+        "icon": "🔍"
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para potenciar tu marca?",
+    "description": "Descubre todos nuestros servicios y encuentra la solución perfecta para tu negocio",
+    "primaryButton": {
+      "text": "Ver Todos los Servicios",
+      "link": "/servicios"
+    },
+    "secondaryButton": {
+      "text": "Consulta Gratuita",
+      "link": "/contact"
+    }
+  },
+  "images": {
+    "contentCreation": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=600&fit=crop&crop=entropy&auto=format&q=75",
+    "contentCreationAlt": "Creación de contenido digital",
+    "strategicMarketing": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&h=600&fit=crop&crop=entropy&auto=format&q=75",
+    "strategicMarketingAlt": "Estrategia de marketing",
+    "btlMarketing": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop&crop=entropy&auto=format&q=75",
+    "btlMarketingAlt": "Eventos y activaciones BTL"
+  },
+  "colors": {
+    "primary": "pink",
+    "secondary": "yellow",
+    "accent": "pink"
+  }
+} 

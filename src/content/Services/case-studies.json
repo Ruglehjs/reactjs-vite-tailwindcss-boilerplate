@@ -1,0 +1,312 @@
+{
+  "title": "Casos de Éxito Comprobados",
+  "subtitle": "Resultados Reales para Clientes Reales",
+  "description": "Descubre cómo hemos transformado negocios con nuestras estrategias de marketing especializado.",
+  "caseStudies": [
+    {
+      "id": "restaurant-social-growth",
+      "serviceType": "content-creation",
+      "client": {
+        "name": "Restaurante Sabores del Sur",
+        "industry": "Gastronomía",
+        "location": "Santiago, Chile",
+        "size": "Negocio local familiar"
+      },
+      "challenge": {
+        "title": "Baja Visibilidad Digital",
+        "description": "Un restaurante familiar tradicional que luchaba por atraer clientes jóvenes y competir con cadenas grandes.",
+        "problems": [
+          "Solo 200 seguidores en Instagram",
+          "Contenido inconsistente y poco atractivo",
+          "Baja ocupación durante días de semana",
+          "Competencia feroz con cadenas establecidas",
+          "Presupuesto limitado para marketing"
+        ]
+      },
+      "solution": {
+        "title": "Estrategia de Contenido Gastronómico",
+        "description": "Desarrollamos una estrategia integral de contenido que destacara la autenticidad y calidad del restaurante.",
+        "tactics": [
+          "Fotografía profesional de platos signature",
+          "Videos behind-the-scenes del proceso de cocina",
+          "Stories interactivos con polls y preguntas",
+          "Colaboraciones con food bloggers locales",
+          "Contenido educativo sobre ingredientes tradicionales",
+          "Campañas de user-generated content"
+        ],
+        "timeline": "6 meses de implementación"
+      },
+      "results": {
+        "title": "Crecimiento Exponencial",
+        "description": "Los resultados superaron todas las expectativas iniciales.",
+        "metrics": [
+          {
+            "metric": "Seguidores en Instagram",
+            "before": "200",
+            "after": "15,000+",
+            "improvement": "7,400%"
+          },
+          {
+            "metric": "Engagement Rate",
+            "before": "1.2%",
+            "after": "8.5%",
+            "improvement": "608%"
+          },
+          {
+            "metric": "Reservas semanales",
+            "before": "45",
+            "after": "180",
+            "improvement": "300%"
+          },
+          {
+            "metric": "Ventas mensuales",
+            "before": "$2.5M CLP",
+            "after": "$6.8M CLP",
+            "improvement": "172%"
+          }
+        ],
+        "testimonial": {
+          "text": "Viraleate transformó completamente nuestro negocio. Pasamos de ser un restaurante desconocido a tener lista de espera los fines de semana. El contenido que crean es simplemente espectacular.",
+          "author": "María González",
+          "position": "Propietaria, Restaurante Sabores del Sur"
+        }
+      },
+      "images": {
+        "hero": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&h=600&fit=crop&crop=entropy&auto=format&q=80",
+        "before": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "after": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "gallery": [
+          "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1547573854-74d2a71d0826?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75"
+        ]
+      }
+    },
+    {
+      "id": "saas-strategic-growth",
+      "serviceType": "strategic-marketing",
+      "client": {
+        "name": "TechFlow SaaS",
+        "industry": "Software B2B",
+        "location": "Santiago, Chile",
+        "size": "Startup en crecimiento"
+      },
+      "challenge": {
+        "title": "Estancamiento en Crecimiento",
+        "description": "Una startup SaaS prometedora que había alcanzado un plateau en su crecimiento y necesitaba escalar.",
+        "problems": [
+          "ARR estancado en $500K USD por 8 meses",
+          "Alto costo de adquisición de clientes (CAC)",
+          "Baja conversión de trials a clientes pagos",
+          "Mensaje de valor poco claro",
+          "Competencia con players internacionales"
+        ]
+      },
+      "solution": {
+        "title": "Reposicionamiento Estratégico Integral",
+        "description": "Desarrollamos una estrategia completa de reposicionamiento y optimización de conversión.",
+        "tactics": [
+          "Redefinición de buyer personas basada en datos",
+          "Nuevo mensaje de valor diferenciado",
+          "Optimización completa del funnel de conversión",
+          "Estrategia de content marketing B2B",
+          "Implementación de marketing automation",
+          "Programa de customer success mejorado"
+        ],
+        "timeline": "12 meses de implementación"
+      },
+      "results": {
+        "title": "Transformación del Negocio",
+        "description": "Logramos no solo superar el estancamiento, sino acelerar el crecimiento exponencialmente.",
+        "metrics": [
+          {
+            "metric": "ARR (Annual Recurring Revenue)",
+            "before": "$500K USD",
+            "after": "$2.5M USD",
+            "improvement": "400%"
+          },
+          {
+            "metric": "Tasa de conversión trial-to-paid",
+            "before": "8%",
+            "after": "24%",
+            "improvement": "200%"
+          },
+          {
+            "metric": "CAC (Customer Acquisition Cost)",
+            "before": "$450 USD",
+            "after": "$180 USD",
+            "improvement": "-60%"
+          },
+          {
+            "metric": "MRR Growth Rate",
+            "before": "2%",
+            "after": "15%",
+            "improvement": "650%"
+          }
+        ],
+        "testimonial": {
+          "text": "El equipo de Viraleate no solo entendió nuestro negocio, sino que lo transformó. Su estrategia nos llevó de estar estancados a ser líderes en nuestro nicho. Los resultados hablan por sí solos.",
+          "author": "Carlos Mendoza",
+          "position": "CEO & Founder, TechFlow SaaS"
+        }
+      },
+      "images": {
+        "hero": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=600&fit=crop&crop=entropy&auto=format&q=80",
+        "before": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "after": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "gallery": [
+          "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1552664730-d307ca884978?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75"
+        ]
+      }
+    },
+    {
+      "id": "fashion-brand-activation",
+      "serviceType": "btl-marketing",
+      "client": {
+        "name": "Urban Style",
+        "industry": "Moda y Retail",
+        "location": "Valparaíso, Chile",
+        "size": "Marca emergente"
+      },
+      "challenge": {
+        "title": "Lanzamiento de Marca Desconocida",
+        "description": "Una nueva marca de moda urbana que necesitaba generar awareness y conexión emocional con su audiencia joven.",
+        "problems": [
+          "Marca completamente desconocida en el mercado",
+          "Presupuesto limitado para publicidad tradicional",
+          "Competencia con marcas internacionales establecidas",
+          "Necesidad de generar buzz auténtico",
+          "Target audience escéptico a la publicidad tradicional"
+        ]
+      },
+      "solution": {
+        "title": "Campaña de Activaciones Experienciales",
+        "description": "Diseñamos una serie de activaciones BTL que conectaran emocionalmente con la audiencia urbana joven.",
+        "tactics": [
+          "Pop-up stores en ubicaciones estratégicas",
+          "Activaciones en eventos de música urbana",
+          "Colaboraciones con artistas locales",
+          "Experiencias de personalización en vivo",
+          "Activaciones en universidades y colegios",
+          "Roadshow por ciudades principales"
+        ],
+        "timeline": "6 meses de campaña intensiva"
+      },
+      "results": {
+        "title": "Impacto Viral y Crecimiento Acelerado",
+        "description": "Las activaciones generaron un buzz orgánico que superó todas las expectativas.",
+        "metrics": [
+          {
+            "metric": "Participantes en activaciones",
+            "before": "0",
+            "after": "50,000+",
+            "improvement": "∞"
+          },
+          {
+            "metric": "Menciones en redes sociales",
+            "before": "0",
+            "after": "25,000+",
+            "improvement": "∞"
+          },
+          {
+            "metric": "Ventas mensuales",
+            "before": "$0",
+            "after": "$180M CLP",
+            "improvement": "∞"
+          },
+          {
+            "metric": "Brand awareness (target audience)",
+            "before": "0%",
+            "after": "65%",
+            "improvement": "∞"
+          }
+        ],
+        "testimonial": {
+          "text": "Viraleate hizo posible lo imposible. Lanzamos nuestra marca desde cero y en 6 meses éramos la marca de moda urbana más hablada en redes sociales. Sus activaciones fueron pura magia.",
+          "author": "Sofía Ramírez",
+          "position": "Founder & Creative Director, Urban Style"
+        }
+      },
+      "images": {
+        "hero": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&h=600&fit=crop&crop=entropy&auto=format&q=80",
+        "before": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "after": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=300&fit=crop&crop=entropy&auto=format&q=75",
+        "gallery": [
+          "https://images.unsplash.com/photo-1511578314322-379afb476865?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75",
+          "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=300&h=200&fit=crop&crop=entropy&auto=format&q=75"
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "title": "Nuestro Impacto en Números",
+    "description": "Resultados comprobados que hablan por sí solos",
+    "metrics": [
+      {
+        "number": "200+",
+        "label": "Proyectos Completados",
+        "description": "Casos de éxito en diversos sectores"
+      },
+      {
+        "number": "95%",
+        "label": "Clientes Satisfechos",
+        "description": "Índice de satisfacción excepcional"
+      },
+      {
+        "number": "300%",
+        "label": "Crecimiento Promedio",
+        "description": "Mejora promedio en KPIs principales"
+      },
+      {
+        "number": "5+",
+        "label": "Años de Experiencia",
+        "description": "Expertise consolidada en el mercado"
+      }
+    ]
+  },
+  "methodology": {
+    "title": "Nuestra Metodología Probada",
+    "description": "Un proceso sistemático que garantiza resultados excepcionales",
+    "steps": [
+      {
+        "number": "01",
+        "title": "Diagnóstico Profundo",
+        "description": "Analizamos tu situación actual, competencia y oportunidades de mercado",
+        "deliverables": ["Auditoría completa", "Análisis competitivo", "Identificación de gaps"]
+      },
+      {
+        "number": "02",
+        "title": "Estrategia Personalizada",
+        "description": "Desarrollamos una estrategia única basada en tus objetivos específicos",
+        "deliverables": ["Plan estratégico", "Roadmap detallado", "KPIs definidos"]
+      },
+      {
+        "number": "03",
+        "title": "Ejecución Experta",
+        "description": "Implementamos la estrategia con nuestro equipo especializado",
+        "deliverables": ["Implementación técnica", "Contenido creativo", "Campañas activas"]
+      },
+      {
+        "number": "04",
+        "title": "Optimización Continua",
+        "description": "Monitoreamos, medimos y optimizamos constantemente los resultados",
+        "deliverables": ["Reportes regulares", "Optimizaciones", "Ajustes estratégicos"]
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Quieres Ser Nuestro Próximo Caso de Éxito?",
+    "description": "Descubre cómo podemos transformar tu negocio con estrategias probadas",
+    "primaryButton": {
+      "text": "Consulta Gratuita",
+      "link": "/contact"
+    },
+    "secondaryButton": {
+      "text": "Ver Más Casos",
+      "link": "/portfolio"
+    }
+  }
+} 

@@ -1,0 +1,322 @@
+# Viraleate.cl Marketing Agency Website - Cursor Rules
+
+## Project Overview
+This is a marketing agency website for viraleate.cl, built with React 18, Vite, TypeScript, and TailwindCSS. The website showcases content creation services, strategic marketing consulting, and BTL marketing plans with a **clean, modern, and minimal design approach**.
+
+## Tech Stack
+- **Frontend**: React 18 + TypeScript + Vite
+- **Styling**: TailwindCSS 3 + Montserrat Font
+- **Testing**: Vitest + Testing Library
+- **Code Quality**: ESLint + Prettier
+- **Content Management**: JSON files in `src/content/`
+
+## Architecture Principles
+
+### 1. Content-Driven Architecture
+- All text content must be stored in JSON files under `src/content/`
+- **NEW STRUCTURE**: Organize content by page/section hierarchy:
+  ```
+  src/content/
+    ├── Home/           # Home page content
+    │   ├── hero.json
+    │   ├── services.json
+    │   └── pricing.json
+    ├── Services/       # Services page content
+    │   └── services-hero.json
+    ├── Plans/          # Plans page content
+    │   └── plans.json
+    ├── About/          # About page content
+    ├── Contact/        # Contact page content
+    ├── Portfolio/      # Portfolio page content
+    └── common/         # Shared content across pages
+        └── navigation.json
+  ```
+- Each section has a corresponding React component
+- Images should be referenced with paths in JSON, stored in `public/` or `src/assets/`
+
+### 2. Component & Page Structure
+- **Page Components**: Organized in page-specific folders
+  ```
+  src/pages/
+    ├── Home/           # Home page components
+    │   ├── index.tsx   # Main page component
+    │   ├── HeroSection/
+    │   ├── ServicesSection/
+    │   └── PricingSection/
+    ├── Services/       # Services page components
+    │   ├── index.tsx
+    │   ├── ServicesHero/
+    │   └── ServicesShowcase/
+    └── Plans/          # Plans page components
+        └── index.tsx
+  ```
+- **Shared Components**: In main components folder
+  ```
+  src/components/
+    ├── Navigation/     # Global navigation
+    ├── ui/            # Reusable UI components
+    └── common/        # Other shared components
+  ```
+- Use functional components with TypeScript
+- Include proper TypeScript interfaces for all props
+- Each component should have its own folder with index.tsx
+
+### 3. Clean Design Guidelines
+- **Minimal Approach**: Clean, uncluttered layouts with plenty of whitespace
+- **Typography**: Montserrat font family for all text elements
+- **Responsive Design**: Mobile-first approach with clean breakpoints
+- **Semantic HTML**: Use proper HTML elements for accessibility
+- **Consistent Spacing**: Use TailwindCSS spacing scale systematically
+
+### 4. Content JSON Structure
+```json
+{
+  "title": "Main Title",
+  "subtitle": "Subtitle text", 
+  "description": "Description text",
+  "coverImage": "image-filename.jpg",
+  "items": [
+    {
+      "name": "Item name",
+      "price": "50.000",
+      "currency": "CLP",
+      "features": ["Feature 1", "Feature 2"]
+    }
+  ],
+  "images": {
+    "hero": "/images/hero.jpg",
+    "heroAlt": "Alt text description"
+  },
+  "cta": {
+    "text": "Contact Us",
+    "link": "#contact"
+  }
+}
+```
+
+## Viraleate Clean Brand Design System
+
+### 1. Color Palette
+- **Primary Brand Yellow**: `#D8FF00` (Bright lime-yellow)
+- **Secondary Brand Pink**: `#FF1493` (Vibrant magenta-pink)
+- **Brand White**: `#FFFFFF` (Pure white for accents)
+- **Clean Grays**: Use gray-50 to gray-900 for subtle elements
+- **Tailwind Config**: 
+  ```javascript
+  brand: {
+    yellow: '#D8FF00',
+    pink: '#FF1493', 
+    white: '#FFFFFF',
+  },
+  primary: { 500: '#D8FF00' }, // Lime-yellow shades
+  secondary: { 500: '#FF1493' }, // Pink shades
+  ```
+
+### 2. Clean Typography & Text Treatment
+- **Font Family**: Montserrat for all text elements
+- **Clean Text Styling**: 
+```css
+// Simple, clean text without heavy effects
+className="text-3xl md:text-5xl font-black text-secondary-500 font-montserrat"
+```
+- **Font Weights**: 
+  - `font-light` (300) for subtle text
+  - `font-normal` (400) for body text
+  - `font-medium` (500) for emphasis
+  - `font-semibold` (600) for headings
+  - `font-bold` (700) for strong emphasis
+  - `font-black` (900) for main titles
+- **Font Sizes**: Moderate, readable sizes
+  - Hero titles: `text-3xl` to `text-6xl`
+  - Section titles: `text-2xl` to `text-4xl`
+  - Body text: `text-base` to `text-lg`
+  - Small text: `text-sm` to `text-xs`
+
+### 3. Clean Animation Patterns
+- **Subtle Animations**: Gentle, purposeful motion
+```javascript
+const cleanAnimation = {
+  y: [0, -5, 0],
+  transition: {
+    duration: 3,
+    repeat: Infinity,
+    ease: "easeInOut" as const
+  }
+}
+```
+- **Hover Effects**: Subtle scale (1.02-1.05) and smooth transitions
+- **Staggered Animations**: Gentle staggerChildren: 0.1-0.15
+- **Performance**: Optimize animations for smooth 60fps
+
+### 4. Clean Component Structure Patterns
+- **Minimal Backgrounds**: Clean gradients and solid colors
+- **Subtle Shadows**: Use `shadow-sm`, `shadow-md`, `shadow-lg`
+- **Modern Borders**: Clean `border-2` or `border-3` with rounded corners
+- **Rounded Corners**: `rounded-xl` to `rounded-2xl` for modern feel
+- **Whitespace**: Generous padding and margins for breathing room
+
+### 5. Clean Card Design Patterns
+```typescript
+// Clean, minimal card design
+<div className="bg-white rounded-2xl p-6 border-2 border-gray-200 shadow-lg hover:shadow-xl transition-shadow duration-300">
+  {/* Content */}
+</div>
+```
+
+### 6. Clean Interactive Elements
+- **Buttons**: Clean, rounded design with subtle gradients
+```typescript
+<button className="px-6 py-3 bg-secondary-500 text-white font-semibold rounded-xl hover:bg-secondary-600 transition-colors duration-300">
+  Button Text
+</button>
+```
+- **Hover States**: Smooth color and scale transitions
+- **Icons**: Clean Lucide React icons, appropriately sized
+- **Emojis**: Use sparingly for personality (✨, 🚀, 💫)
+
+### 7. Clean Background Treatments
+- **Simple Gradients**: `from-primary-50 via-white to-secondary-50`
+- **Minimal Decorative Elements**: Subtle floating elements with low opacity
+- **Clean Overlays**: Simple color overlays instead of complex patterns
+
+## Clean Layout Principles
+
+### 1. Spacing & Rhythm
+- **Consistent Spacing**: Use TailwindCSS spacing scale (2, 4, 6, 8, 12, 16)
+- **Vertical Rhythm**: Consistent line-height and margin-bottom
+- **Section Padding**: `py-12` to `py-16` for clean section separation
+- **Container Margins**: `px-4` to `px-6` with proper max-width
+
+### 2. Grid & Flexbox
+- **Clean Grids**: Simple grid layouts with consistent gaps
+- **Flexbox**: Use for alignment and distribution
+- **Responsive**: Mobile-first with clean breakpoints
+
+### 3. Content Hierarchy
+- **Clear Hierarchy**: Distinct heading sizes and weights
+- **Reading Flow**: Logical content order and visual flow
+- **Scannable**: Easy to scan with clear sections
+
+## Clean Component Guidelines
+
+### 1. Hero Section Pattern
+```typescript
+// Clean hero section structure
+<section className="min-h-[85vh] bg-gradient-to-br from-brand-yellow via-primary-400 to-primary-500">
+  <div className="container mx-auto px-4 py-16">
+    <div className="grid lg:grid-cols-2 gap-12 items-center">
+      <div className="space-y-6">
+        <h1 className="text-3xl md:text-5xl font-black text-secondary-500 font-montserrat">
+          {title}
+        </h1>
+        <p className="text-lg text-gray-800 font-medium">
+          {description}
+        </p>
+        <div className="flex gap-4">
+          {/* Clean CTA buttons */}
+        </div>
+      </div>
+      <div className="relative">
+        <img src={coverImage} alt="Cover" className="w-full h-full object-cover rounded-2xl" />
+      </div>
+    </div>
+  </div>
+</section>
+```
+
+### 2. Card Component Pattern
+```typescript
+// Clean card component
+<div className="bg-white rounded-2xl p-6 border-2 border-gray-200 shadow-lg">
+  <div className="space-y-4">
+    <h3 className="text-xl font-bold text-gray-900 font-montserrat">
+      {title}
+    </h3>
+    <p className="text-gray-600 font-medium">
+      {description}
+    </p>
+    <button className="w-full py-3 bg-secondary-500 text-white font-semibold rounded-xl hover:bg-secondary-600 transition-colors">
+      {buttonText}
+    </button>
+  </div>
+</div>
+```
+
+### 3. Section Header Pattern
+```typescript
+// Clean section header
+<div className="text-center mb-12">
+  <h2 className="text-3xl md:text-4xl font-black text-secondary-500 mb-4 font-montserrat">
+    {title}
+  </h2>
+  <p className="text-lg text-gray-700 font-medium max-w-2xl mx-auto">
+    {description}
+  </p>
+</div>
+```
+
+## Performance & Accessibility
+
+### 1. Performance Guidelines
+- **Optimized Images**: WebP format, proper sizing, lazy loading
+- **Minimal Animations**: Only essential animations for better performance
+- **Code Splitting**: Route-based splitting for faster loading
+- **Font Loading**: Proper font display and preloading
+
+### 2. Accessibility Guidelines
+- **WCAG Compliance**: Proper color contrast, keyboard navigation
+- **Semantic HTML**: Proper heading hierarchy and landmarks
+- **Alt Text**: Descriptive alt text for all images
+- **Focus Management**: Visible focus indicators
+
+## Development Workflow
+
+### 1. Clean Component Development
+1. **Create content JSON** with clean, minimal structure
+2. **Define TypeScript interfaces** with proper typing
+3. **Build clean components** following the minimal design patterns
+4. **Use Montserrat font** consistently throughout
+5. **Implement subtle animations** for enhanced UX
+6. **Ensure responsive design** with clean breakpoints
+7. **Test accessibility** and performance
+
+### 2. Styling Approach
+- **TailwindCSS First**: Use utility classes primarily
+- **Consistent Patterns**: Follow established design patterns
+- **Mobile-First**: Start with mobile and scale up
+- **Clean Code**: Readable, maintainable CSS classes
+
+## Specific Instructions for AI Assistant
+
+### 1. Design Philosophy
+- **Less is More**: Favor clean, minimal designs over complex layouts
+- **Consistent Branding**: Use brand colors strategically, not overwhelmingly
+- **User-Centered**: Prioritize usability and readability
+- **Modern Aesthetics**: Clean, contemporary design patterns
+
+### 2. Component Creation
+- **Clean Structure**: Well-organized, readable component code
+- **Proper TypeScript**: Strong typing for all props and data
+- **Responsive Design**: Mobile-first approach with clean breakpoints
+- **Accessibility**: WCAG-compliant components
+- **Performance**: Optimized for fast loading and smooth interactions
+
+### 3. Content Management
+- **JSON-First**: All content in structured JSON files
+- **Clean Data**: Well-organized, properly typed content
+- **Image Optimization**: Proper image handling and optimization
+- **Maintainable**: Easy to update and modify content
+
+### 4. Quality Standards
+- **Clean Code**: Readable, maintainable, well-documented
+- **Consistent Patterns**: Follow established component patterns
+- **Performance**: Fast, optimized, smooth user experience
+- **Accessibility**: Inclusive design for all users
+
+## Final Notes
+- **Clean & Modern**: Prioritize clean, uncluttered designs
+- **Brand Consistency**: Use Viraleate colors strategically
+- **User Experience**: Focus on usability and conversion
+- **Performance**: Fast, smooth, optimized experience
+- **Maintainable**: Easy to update and extend
+- **Professional**: Clean, trustworthy, modern aesthetic 

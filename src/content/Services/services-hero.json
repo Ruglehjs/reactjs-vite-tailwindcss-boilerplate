@@ -1,0 +1,36 @@
+{
+  "title": "Nuestros Servicios",
+  "subtitle": "Potencia tu marca con nuestros servicios especializados. Desde creación de contenido hasta estrategias BTL, tenemos todo lo que necesitas para destacar en el mercado chileno.",
+  "backgroundImage": "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "backgroundImageAlt": "Equipo de marketing trabajando en estrategias digitales",
+  "tag": {
+    "text": "Soluciones Integrales",
+    "icon": "✨",
+    "emoji": "🚀"
+  },
+  "tagColor": "pink",
+  "cta": {
+    "primary": {
+      "text": "Cotizar Ahora",
+      "link": "#contact"
+    },
+    "secondary": {
+      "text": "Ver Planes",
+      "link": "#services-plans"
+    }
+  },
+  "stats": [
+    {
+      "number": "200+",
+      "label": "Proyectos Exitosos"
+    },
+    {
+      "number": "95%",
+      "label": "Clientes Satisfechos"
+    },
+    {
+      "number": "5+",
+      "label": "Años de Experiencia"
+    }
+  ]
+} 

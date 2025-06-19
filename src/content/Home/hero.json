@@ -1,0 +1,100 @@
+{
+  "title": "Soluciones Modernas para el Engagement de Clientes",
+  "subtitle": "Viraleate.cl - Agencia de Marketing Digital",
+  "coverImage": "woman.png",
+  "description": "Componentes altamente personalizables para construir sitios web modernos y aplicaciones que se ven y se sienten exactamente como lo imaginas.",
+  "announcement": {
+    "text": "Presentamos el Soporte para Modelos de IA",
+    "link": "#link"
+  },
+  "cta": {
+    "primary": {
+      "text": "Comenzar Ahora",
+      "link": "#contact"
+    },
+    "secondary": {
+      "text": "Solicitar Demo",
+      "link": "#demo"
+    }
+  },
+  "images": {
+    "hero": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=2700&h=1440&fit=crop&crop=entropy&auto=format&q=75",
+    "heroAlt": "Dashboard de marketing digital moderno",
+    "heroLight": "https://images.unsplash.com/photo-1551434678-e076c223a692?w=2700&h=1440&fit=crop&crop=entropy&auto=format&q=75",
+    "heroLightAlt": "Interfaz de análisis de marketing",
+    "background": "https://images.unsplash.com/photo-1557804506-669a67965ba0?w=3276&h=4095&fit=crop&crop=entropy&auto=format&q=75",
+    "backgroundAlt": "Fondo abstracto de marketing digital"
+  },
+  "navigation": {
+    "logo": "Viraleate",
+    "menuItems": [
+      { "name": "Servicios", "href": "#services" },
+      { "name": "Soluciones", "href": "#solutions" },
+      { "name": "Precios", "href": "#pricing" },
+      { "name": "Nosotros", "href": "#about" }
+    ],
+    "buttons": {
+      "login": "Iniciar Sesión",
+      "signup": "Registrarse",
+      "getStarted": "Comenzar"
+    }
+  },
+  "clients": {
+    "title": "Conoce a Nuestros Clientes",
+    "logos": [
+      {
+        "name": "Cliente 1",
+        "src": "https://html.tailus.io/blocks/customers/nvidia.svg",
+        "alt": "Logo Cliente 1",
+        "height": "20"
+      },
+      {
+        "name": "Cliente 2", 
+        "src": "https://html.tailus.io/blocks/customers/column.svg",
+        "alt": "Logo Cliente 2",
+        "height": "16"
+      },
+      {
+        "name": "Cliente 3",
+        "src": "https://html.tailus.io/blocks/customers/github.svg", 
+        "alt": "Logo Cliente 3",
+        "height": "16"
+      },
+      {
+        "name": "Cliente 4",
+        "src": "https://html.tailus.io/blocks/customers/nike.svg",
+        "alt": "Logo Cliente 4", 
+        "height": "20"
+      },
+      {
+        "name": "Cliente 5",
+        "src": "https://html.tailus.io/blocks/customers/lemonsqueezy.svg",
+        "alt": "Logo Cliente 5",
+        "height": "20"
+      },
+      {
+        "name": "Cliente 6",
+        "src": "https://html.tailus.io/blocks/customers/laravel.svg",
+        "alt": "Logo Cliente 6",
+        "height": "16"
+      },
+      {
+        "name": "Cliente 7", 
+        "src": "https://html.tailus.io/blocks/customers/lilly.svg",
+        "alt": "Logo Cliente 7",
+        "height": "28"
+      },
+      {
+        "name": "Cliente 8",
+        "src": "https://html.tailus.io/blocks/customers/openai.svg",
+        "alt": "Logo Cliente 8",
+        "height": "24"
+      }
+    ]
+  },
+  "colors": {
+    "primary": "yellow",
+    "secondary": "pink",
+    "accent": "yellow"
+  }
+} 

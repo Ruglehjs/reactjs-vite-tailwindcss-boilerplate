@@ -1,0 +1,27 @@
+{
+  "title": "Conoce a Nuestro Equipo",
+  "subtitle": "Somos creativos, estratégicos y apasionados por impulsar el crecimiento de tu marca. Conoce la historia detrás de Viraleate y cómo transformamos ideas en resultados extraordinarios.",
+  "backgroundImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "backgroundImageAlt": "Equipo de profesionales trabajando juntos en una oficina moderna",
+  "tag": {
+    "text": "Tu Agencia de Marketing Digital",
+    "icon": "👥",
+    "emoji": "❤️"
+  },
+  "tagColor": "pink",
+  "coverImage": "/woman.png",
+  "cta": {
+    "primary": {
+      "text": "Trabajemos Juntos",
+      "link": "#contact"
+    },
+    "secondary": {
+      "text": "Ver Proyectos",
+      "link": "/contacto"
+    }
+  },
+  "images": {
+    "hero": "/woman.png",
+    "heroAlt": "Equipo Viraleate trabajando en estrategias de marketing digital"
+  }
+} 

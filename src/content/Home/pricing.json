@@ -1,0 +1,161 @@
+{
+  "title": "Planes de Redes Sociales",
+  "subtitle": "Gestión Profesional de Redes Sociales",
+  "description": "Elige el plan perfecto para hacer crecer tu presencia en redes sociales. Contenido profesional, estrategia digital y resultados reales.",
+  "badge": "Redes Sociales",
+  "features": {
+    "popular": "Más Popular",
+    "recommended": "Recomendado",
+    "contact": "Contactar",
+    "startNow": "Empezar Ahora",
+    "choosePlan": "Elegir Plan",
+    "bookMeeting": "Agendar Reunión"
+  },
+  "categories": [
+    {
+      "id": "social-media-plans",
+      "title": "Planes de Redes Sociales",
+      "description": "Gestión completa de Instagram, Facebook, TikTok y LinkedIn",
+      "plans": [
+        {
+          "name": "📱 Básico",
+          "price": "50.000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "Perfecto para empezar tu presencia en redes sociales con contenido profesional.",
+          "features": [
+            {
+              "name": "8 Posts Mensuales",
+              "description": "Posts diseñados para Instagram y Facebook"
+            },
+            {
+              "name": "Diseño Profesional",
+              "description": "Plantillas optimizadas para cada red social"
+            },
+            {
+              "name": "Programación Automática",
+              "description": "Publicación en horarios de mayor engagement"
+            },
+            {
+              "name": "Reportes de Engagement",
+              "description": "Análisis mensual de likes, shares y alcance"
+            }
+          ],
+          "cta": {
+            "text": "Empezar Ahora",
+            "variant": "outline"
+          }
+        },
+        {
+          "name": "🚀 Medium",
+          "price": "80.000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "Ideal para marcas en crecimiento que buscan mayor alcance en redes sociales.",
+          "features": [
+            {
+              "name": "15 Posts + Stories",
+              "description": "Contenido optimizado para Instagram y Facebook"
+            },
+            {
+              "name": "Videos y Reels",
+              "description": "Contenido audiovisual profesional"
+            },
+            {
+              "name": "Estrategia de Hashtags",
+              "description": "Investigación y optimización de hashtags"
+            },
+            {
+              "name": "Análisis de Competencia",
+              "description": "Monitoreo de tu sector en redes sociales"
+            },
+            {
+              "name": "Community Management",
+              "description": "Respuesta a comentarios y DMs"
+            }
+          ],
+          "cta": {
+            "text": "Elegir Medium",
+            "variant": "outline"
+          }
+        },
+        {
+          "name": "💎 Pro",
+          "price": "150.000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": true,
+          "description": "Para marcas serias que buscan dominar las redes sociales y generar engagement real.",
+          "features": [
+            {
+              "name": "25 Posts Premium + Reels",
+              "description": "Contenido de alta calidad para todas las redes"
+            },
+            {
+              "name": "Community Management Pro",
+              "description": "Gestión activa de comentarios y engagement"
+            },
+            {
+              "name": "Estrategia de Redes Personalizada",
+              "description": "Plan específico para tu audiencia objetivo"
+            },
+            {
+              "name": "Analytics Avanzados",
+              "description": "Reportes detallados de crecimiento y engagement"
+            },
+            {
+              "name": "Optimización Continua",
+              "description": "Ajustes constantes para maximizar resultados"
+            }
+          ],
+          "cta": {
+            "text": "Ir Pro",
+            "variant": "default"
+          }
+        },
+        {
+          "name": "🌟 Xtreme Pro",
+          "price": "250.000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "La solución completa para grandes marcas que quieren liderar en redes sociales.",
+          "features": [
+            {
+              "name": "Producción Premium",
+              "description": "40 posts + videos profesionales para todas las redes"
+            },
+            {
+              "name": "Social Media Ads",
+              "description": "Campañas pagadas en Facebook, Instagram y TikTok"
+            },
+            {
+              "name": "Influencer Partnerships",
+              "description": "Colaboraciones con influencers del sector"
+            },
+            {
+              "name": "Social Media Manager Dedicado",
+              "description": "Especialista exclusivo para tu marca"
+            },
+            {
+              "name": "Reportes de Growth",
+              "description": "Análisis profundo de crecimiento y ROI"
+            }
+          ],
+          "cta": {
+            "text": "Contactar",
+            "variant": "outline"
+          }
+        }
+      ]
+    }
+  ],
+  "bottomCta": {
+    "title": "¿No encuentras lo que buscas?",
+    "description": "Conversemos sobre un plan personalizado para tu marca",
+    "buttonText": "Hablar con un Experto",
+    "buttonLink": "#contact"
+  }
+} 

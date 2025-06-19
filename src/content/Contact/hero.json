@@ -1,0 +1,45 @@
+{
+  "title": "Conversemos sobre Tu Próximo Éxito",
+  "subtitle": "¿Tienes una idea brillante o un desafío que necesita solución? Estamos aquí para escucharte y crear juntos la estrategia perfecta para tu marca. Tu éxito comienza con una conversación.",
+  "backgroundImage": "https://images.unsplash.com/photo-1553028826-f4804a6dba3b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+  "backgroundImageAlt": "Empresarios en una reunión de negocios planificando estrategias",
+  "tag": {
+    "text": "Contacto Directo",
+    "icon": "📞",
+    "emoji": "💬"
+  },
+  "tagColor": "blue",
+  "coverImage": "/woman.png",
+  "cta": {
+    "primary": {
+      "text": "Programar Llamada",
+      "link": "#contact-form"
+    },
+    "secondary": {
+      "text": "WhatsApp Directo",
+      "link": "https://wa.me/56912345678"
+    }
+  },
+  "contactMethods": [
+    {
+      "type": "phone",
+      "label": "Teléfono",
+      "value": "+56 9 1234 5678",
+      "link": "tel:+56912345678"
+    },
+    {
+      "type": "email", 
+      "label": "Email",
+      "value": "hola@viraleate.cl",
+      "link": "mailto:hola@viraleate.cl"
+    },
+    {
+      "type": "address",
+      "label": "Oficina",
+      "value": "Santiago, Chile",
+      "link": "https://maps.google.com"
+    }
+  ],
+  "responseTime": "Respuesta en menos de 2 horas",
+  "availability": "Lunes a Viernes, 9:00 - 18:00 hrs"
+} 

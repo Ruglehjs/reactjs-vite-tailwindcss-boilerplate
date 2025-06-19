@@ -1,0 +1,313 @@
+{
+  "hero": {
+    "title": "Planes y Precios",
+    "subtitle": "Desde startups hasta grandes empresas, tenemos el plan ideal para impulsar tu marca al siguiente nivel. Todos nuestros planes incluyen soporte especializado y resultados garantizados.",
+    "backgroundImage": "https://images.unsplash.com/photo-1553484771-371a605b060b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+    "backgroundImageAlt": "Empresarios analizando planes de negocio y estrategias de marketing",
+    "tag": {
+      "text": "Planes Personalizados",
+      "icon": "💼",
+      "emoji": "💰"
+    },
+    "tagColor": "yellow"
+  },
+  "title": "Planes y Precios",
+  "subtitle": "Encuentra el Plan Perfecto para tu Negocio",
+  "description": "Desde startups hasta grandes empresas, tenemos el plan ideal para impulsar tu marca al siguiente nivel. Todos nuestros planes incluyen soporte especializado y resultados garantizados.",
+  "categories": [
+    {
+      "id": "content-creation",
+      "name": "Creación de Contenido",
+      "description": "Planes completos de contenido digital para todas las necesidades",
+      "icon": "content",
+      "color": "pink",
+      "plans": [
+        {
+          "name": "Básico",
+          "price": "50000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "Perfecto para empezar tu presencia digital",
+          "features": [
+            "8 publicaciones mensuales",
+            "Diseño gráfico básico",
+            "Programación de contenido",
+            "Reportes mensuales",
+            "Soporte básico",
+            "Formatos: Instagram, Facebook"
+          ],
+          "cta": {
+            "text": "Empezar Ahora",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Medium",
+          "price": "80000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "Ideal para marcas en crecimiento",
+          "features": [
+            "15 publicaciones mensuales",
+            "Diseño gráfico profesional",
+            "Stories y reels incluidos",
+            "Programación automática",
+            "Análisis de competencia",
+            "Soporte prioritario",
+            "Multicanal: Instagram, Facebook, LinkedIn"
+          ],
+          "cta": {
+            "text": "Elegir Medium",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Pro",
+          "price": "150000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": true,
+          "description": "Para marcas que buscan resultados serios",
+          "features": [
+            "25 publicaciones mensuales",
+            "Diseño gráfico premium",
+            "Video contenido incluido",
+            "Gestión de comunidad",
+            "Reportes detallados",
+            "Estrategia personalizada",
+            "Soporte 24/7",
+            "Todas las plataformas"
+          ],
+          "cta": {
+            "text": "Ir Pro",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Xtreme Pro",
+          "price": "250000",
+          "currency": "CLP",
+          "period": "mes",
+          "popular": false,
+          "description": "La solución completa para grandes marcas",
+          "features": [
+            "40 publicaciones mensuales",
+            "Producción audiovisual completa",
+            "Campañas publicitarias",
+            "Influencer marketing",
+            "Gestión multi-plataforma",
+            "Account manager dedicado",
+            "Reportes ejecutivos semanales",
+            "Estrategia omnicanal"
+          ],
+          "cta": {
+            "text": "Contactar",
+            "link": "#contact"
+          }
+        }
+      ]
+    },
+    {
+      "id": "strategic-marketing",
+      "name": "Marketing Estratégico",
+      "description": "Consultoría especializada para impulsar tu negocio",
+      "icon": "strategy",
+      "color": "yellow",
+      "plans": [
+        {
+          "name": "Consultoría Estratégica",
+          "price": "300000",
+          "currency": "CLP",
+          "period": "proyecto",
+          "duration": "15-20 días",
+          "popular": true,
+          "description": "Análisis profundo y estrategia personalizada",
+          "features": [
+            "Análisis de mercado completo",
+            "Auditoría de marca",
+            "Estrategia digital personalizada",
+            "Plan de acción detallado",
+            "Identificación de oportunidades",
+            "Recomendaciones específicas",
+            "Seguimiento post-entrega",
+            "Documento ejecutivo final"
+          ],
+          "cta": {
+            "text": "Solicitar Consultoría",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Mentoría Estratégica",
+          "price": "150000",
+          "currency": "CLP",
+          "period": "mes",
+          "duration": "3 meses mínimo",
+          "popular": false,
+          "description": "Acompañamiento continuo para tu crecimiento",
+          "features": [
+            "4 sesiones mensuales de 1 hora",
+            "Revisión de estrategias",
+            "Optimización continua",
+            "Análisis de resultados",
+            "Ajustes en tiempo real",
+            "Acceso prioritario",
+            "Reportes mensuales"
+          ],
+          "cta": {
+            "text": "Iniciar Mentoría",
+            "link": "#contact"
+          }
+        }
+      ]
+    },
+    {
+      "id": "btl-marketing",
+      "name": "Marketing BTL",
+      "description": "Activaciones y eventos que conectan con tu audiencia",
+      "icon": "event",
+      "color": "blue",
+      "plans": [
+        {
+          "name": "Plan Activación Simple",
+          "price": "180000",
+          "currency": "CLP",
+          "period": "día",
+          "popular": false,
+          "description": "Activación efectiva para conexión directa",
+          "features": [
+            "Diseño de activación",
+            "Material promocional básico",
+            "Personal especializado (2-3 personas)",
+            "Logística completa",
+            "Reportes fotográficos",
+            "Métricas básicas",
+            "Duración: 6-8 horas"
+          ],
+          "cta": {
+            "text": "Planificar Activación",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Plan Full Activación",
+          "price": "350000",
+          "currency": "CLP",
+          "period": "día",
+          "popular": true,
+          "description": "Activación completa con máximo impacto",
+          "features": [
+            "Diseño creativo avanzado",
+            "Material promocional premium",
+            "Equipo especializado (4-6 personas)",
+            "Tecnología interactiva",
+            "Cobertura audiovisual",
+            "Métricas detalladas",
+            "Gestión de redes en vivo",
+            "Duración: 8-12 horas"
+          ],
+          "cta": {
+            "text": "Activar Full",
+            "link": "#contact"
+          }
+        },
+        {
+          "name": "Plan Lanzamiento/Evento",
+          "price": "750000",
+          "currency": "CLP",
+          "period": "desde",
+          "popular": false,
+          "description": "Eventos corporativos y lanzamientos de producto",
+          "features": [
+            "Producción integral del evento",
+            "Coordinación completa",
+            "Equipo profesional completo",
+            "Tecnología de última generación",
+            "Cobertura mediática",
+            "Gestión de invitados",
+            "Post-producción incluida",
+            "Seguimiento post-evento"
+          ],
+          "cta": {
+            "text": "Cotizar Evento",
+            "link": "#contact"
+          }
+        }
+      ]
+    }
+  ],
+  "comparisonTable": {
+    "title": "Compara Nuestros Planes",
+    "description": "Encuentra las diferencias entre nuestros planes para elegir el que mejor se adapte a tus necesidades",
+    "categories": ["Básico", "Medium", "Pro", "Xtreme Pro"],
+    "features": [
+      {
+        "name": "Publicaciones mensuales",
+        "values": ["8", "15", "25", "40"]
+      },
+      {
+        "name": "Diseño gráfico",
+        "values": ["Básico", "Profesional", "Premium", "Completo"]
+      },
+      {
+        "name": "Video contenido",
+        "values": ["No", "Básico", "Incluido", "Completo"]
+      },
+      {
+        "name": "Soporte",
+        "values": ["Básico", "Prioritario", "24/7", "Dedicado"]
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "Lo que dicen nuestros clientes",
+    "items": [
+      {
+        "name": "María González",
+        "company": "Boutique Elena",
+        "plan": "Plan Pro",
+        "text": "Con el plan Pro aumentamos nuestras ventas en un 300% en solo 3 meses. El equipo de Viraleate entiende perfectamente lo que necesitamos.",
+        "rating": 5
+      },
+      {
+        "name": "Carlos Mendoza",
+        "company": "RestauranteSabor",
+        "plan": "Plan Medium",
+        "text": "El plan Medium fue perfecto para arrancar. Ahora tenemos una presencia digital profesional que atrae más clientes cada día.",
+        "rating": 5
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Puedo cambiar de plan durante el mes?",
+        "answer": "Sí, puedes hacer upgrade a un plan superior en cualquier momento. El cambio se hace efectivo inmediatamente y solo pagas la diferencia proporcional."
+      },
+      {
+        "question": "¿Qué incluye el soporte 24/7?",
+        "answer": "Incluye respuesta inmediata a consultas urgentes, modificaciones express de contenido, y un canal directo de comunicación con tu account manager."
+      },
+      {
+        "question": "¿Hay permanencia mínima?",
+        "answer": "Para planes de contenido, la permanencia mínima es de 3 meses. Para consultoría estratégica, se paga por proyecto completo."
+      }
+    ]
+  },
+  "cta": {
+    "title": "¿Listo para Empezar?",
+    "description": "Elige tu plan ideal y comienza a transformar tu presencia digital hoy mismo",
+    "primaryButton": {
+      "text": "Hablar con un Experto",
+      "link": "#contact"
+    },
+    "secondaryButton": {
+      "text": "Solicitar Demo",
+      "link": "#demo"
+    },
+    "guarantee": "Garantía de satisfacción 100% o te devolvemos tu dinero"
+  }
+} 

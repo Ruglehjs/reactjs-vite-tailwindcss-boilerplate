@@ -1,0 +1,31 @@
+{
+  "title": "¿Listo para Hacer Historia Juntos?",
+  "description": "Únete a las marcas que ya están transformando su presencia digital con estrategias que realmente funcionan. Tu próximo gran éxito comienza aquí.",
+  "features": [
+    "Estrategia personalizada para tu marca",
+    "Equipo experto dedicado a tu proyecto",
+    "Resultados medibles desde el primer mes",
+    "Soporte continuo y optimización constante"
+  ],
+  "cta": {
+    "primary": {
+      "text": "Comenzar Mi Proyecto",
+      "link": "/contacto"
+    },
+    "secondary": {
+      "text": "Ver Nuestros Planes",
+      "link": "/planes"
+    }
+  },
+  "guarantee": "Garantía de satisfacción del 100%",
+  "urgency": "¡Solo 3 espacios disponibles este mes!",
+  "socialProof": {
+    "text": "Más de 150 marcas confían en nosotros",
+    "logos": [
+      "/logos/client1.png",
+      "/logos/client2.png", 
+      "/logos/client3.png",
+      "/logos/client4.png"
+    ]
+  }
+} 
